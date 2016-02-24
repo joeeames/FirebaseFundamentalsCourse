@@ -1,0 +1,822 @@
+{
+  "userObjects": {
+    "followers": {
+      "-K-sgXF6kcVNbkMTnm8g": {
+        "count": 3,
+        "list": {
+          "-K-sgYyklaS7Y5zijwnJ": {
+            "email": "Darth-Vader@hotmail.com",
+            "key": "-K-sgXFwMdj_CPmLWKpq",
+            "name": "Darth Vader",
+            "username": "darth-vader"
+          },
+          "-K-sgZ-PzTIEofzyxVZX": {
+            "email": "R2-D2@hotmail.com",
+            "key": "-K-sgXFe_iwLRDLrMVf2",
+            "name": "R2-D2",
+            "username": "r2-d2"
+          },
+          "-K-sgZ-PzTIEofzyxVZY": {
+            "email": "C-3PO@hotmail.com",
+            "key": "-K-sgXF6kcVNbkMTnm8g",
+            "name": "C-3PO",
+            "username": "c-3po"
+          }
+        }
+      },
+      "-K-sgXFWAuXU4iN4Uwv-": {
+        "count": 4,
+        "list": {
+          "-K-sgYybFfP6sf-KWsRh": {
+            "email": "Darth-Vader@hotmail.com",
+            "key": "-K-sgXFwMdj_CPmLWKpq",
+            "name": "Darth Vader",
+            "username": "darth-vader"
+          },
+          "-K-sgYzpYu40UD5Ws_cE": {
+            "email": "R2-D2@hotmail.com",
+            "key": "-K-sgXFe_iwLRDLrMVf2",
+            "name": "R2-D2",
+            "username": "r2-d2"
+          },
+          "-K-sgYzpYu40UD5Ws_cF": {
+            "email": "Luke-Skywalker@hotmail.com",
+            "key": "-K-sgXFWAuXU4iN4Uwv-",
+            "name": "Luke Skywalker",
+            "username": "luke-skywalker"
+          },
+          "-K-sgYzpYu40UD5Ws_cG": {
+            "email": "C-3PO@hotmail.com",
+            "key": "-K-sgXF6kcVNbkMTnm8g",
+            "name": "C-3PO",
+            "username": "c-3po"
+          }
+        }
+      },
+      "-K-sgXFe_iwLRDLrMVf2": {
+        "count": 4,
+        "list": {
+          "-K-sgYyqToP6ZmVZZVIx": {
+            "email": "Darth-Vader@hotmail.com",
+            "key": "-K-sgXFwMdj_CPmLWKpq",
+            "name": "Darth Vader",
+            "username": "darth-vader"
+          },
+          "-K-sgZ-ZpVheOZlp1U0J": {
+            "email": "R2-D2@hotmail.com",
+            "key": "-K-sgXFe_iwLRDLrMVf2",
+            "name": "R2-D2",
+            "username": "r2-d2"
+          },
+          "-K-sgZ-_V77tgCgAIZAi": {
+            "email": "Luke-Skywalker@hotmail.com",
+            "key": "-K-sgXFWAuXU4iN4Uwv-",
+            "name": "Luke Skywalker",
+            "username": "luke-skywalker"
+          },
+          "-K-sgZ-aqqNuUNcnJIi4": {
+            "email": "C-3PO@hotmail.com",
+            "key": "-K-sgXF6kcVNbkMTnm8g",
+            "name": "C-3PO",
+            "username": "c-3po"
+          }
+        }
+      },
+      "-K-sgXFwMdj_CPmLWKpq": {
+        "count": 3,
+        "list": {
+          "-K-sgYyf4bvBoW7HBVv6": {
+            "email": "Darth-Vader@hotmail.com",
+            "key": "-K-sgXFwMdj_CPmLWKpq",
+            "name": "Darth Vader",
+            "username": "darth-vader"
+          },
+          "-K-sgZ-42YJnD_qtwrVL": {
+            "email": "Luke-Skywalker@hotmail.com",
+            "key": "-K-sgXFWAuXU4iN4Uwv-",
+            "name": "Luke Skywalker",
+            "username": "luke-skywalker"
+          },
+          "-K-sgZ-42YJnD_qtwrVM": {
+            "email": "C-3PO@hotmail.com",
+            "key": "-K-sgXF6kcVNbkMTnm8g",
+            "name": "C-3PO",
+            "username": "c-3po"
+          }
+        }
+      }
+    },
+    "following": {
+      "-K-sgXF6kcVNbkMTnm8g": {
+        "-K-sgXIpLSHNMVKFe3Qe": {
+          "email": "Luke-Skywalker@hotmail.com",
+          "key": "-K-sgXFWAuXU4iN4Uwv-",
+          "name": "Luke Skywalker",
+          "username": "luke-skywalker"
+        },
+        "-K-sgXJ09UBRKlacjGjF": {
+          "email": "Darth-Vader@hotmail.com",
+          "key": "-K-sgXFwMdj_CPmLWKpq",
+          "name": "Darth Vader",
+          "username": "darth-vader"
+        },
+        "-K-sgXJFC1SNFk8V-t2V": {
+          "email": "C-3PO@hotmail.com",
+          "key": "-K-sgXF6kcVNbkMTnm8g",
+          "name": "C-3PO",
+          "username": "c-3po"
+        },
+        "-K-sgXJPJQGyVXvfpAS7": {
+          "email": "R2-D2@hotmail.com",
+          "key": "-K-sgXFe_iwLRDLrMVf2",
+          "name": "R2-D2",
+          "username": "r2-d2"
+        }
+      },
+      "-K-sgXFWAuXU4iN4Uwv-": {
+        "-K-sgXInQqrmy4zw80jT": {
+          "email": "Luke-Skywalker@hotmail.com",
+          "key": "-K-sgXFWAuXU4iN4Uwv-",
+          "name": "Luke Skywalker",
+          "username": "luke-skywalker"
+        },
+        "-K-sgXIvh2NJA0G9zZVQ": {
+          "email": "Darth-Vader@hotmail.com",
+          "key": "-K-sgXFwMdj_CPmLWKpq",
+          "name": "Darth Vader",
+          "username": "darth-vader"
+        },
+        "-K-sgXJMm_aRFQvVTSdm": {
+          "email": "R2-D2@hotmail.com",
+          "key": "-K-sgXFe_iwLRDLrMVf2",
+          "name": "R2-D2",
+          "username": "r2-d2"
+        }
+      },
+      "-K-sgXFe_iwLRDLrMVf2": {
+        "-K-sgXIjhWr_xDD2GBV8": {
+          "email": "Luke-Skywalker@hotmail.com",
+          "key": "-K-sgXFWAuXU4iN4Uwv-",
+          "name": "Luke Skywalker",
+          "username": "luke-skywalker"
+        },
+        "-K-sgXJCeoIK8WzE0o3T": {
+          "email": "C-3PO@hotmail.com",
+          "key": "-K-sgXF6kcVNbkMTnm8g",
+          "name": "C-3PO",
+          "username": "c-3po"
+        },
+        "-K-sgXJLzsr8m0iAS6fM": {
+          "email": "R2-D2@hotmail.com",
+          "key": "-K-sgXFe_iwLRDLrMVf2",
+          "name": "R2-D2",
+          "username": "r2-d2"
+        }
+      },
+      "-K-sgXFwMdj_CPmLWKpq": {
+        "-K-sgXIg5yNXQYrVMl0s": {
+          "email": "Luke-Skywalker@hotmail.com",
+          "key": "-K-sgXFWAuXU4iN4Uwv-",
+          "name": "Luke Skywalker",
+          "username": "luke-skywalker"
+        },
+        "-K-sgXItfJh1t7-oF6RM": {
+          "email": "Darth-Vader@hotmail.com",
+          "key": "-K-sgXFwMdj_CPmLWKpq",
+          "name": "Darth Vader",
+          "username": "darth-vader"
+        },
+        "-K-sgXJAdygwfHQPSqnc": {
+          "email": "C-3PO@hotmail.com",
+          "key": "-K-sgXF6kcVNbkMTnm8g",
+          "name": "C-3PO",
+          "username": "c-3po"
+        },
+        "-K-sgXJJlhj66gxIwRvr": {
+          "email": "R2-D2@hotmail.com",
+          "key": "-K-sgXFe_iwLRDLrMVf2",
+          "name": "R2-D2",
+          "username": "r2-d2"
+        }
+      }
+    },
+    "timeline": {
+      "-K-sgXF6kcVNbkMTnm8g": {
+        "-K-sgYzUA7zW5LchcDQ2": {
+          "created": "1970-01-06T21:02:32-07:00",
+          "text": "Ugh! My life is going nowhere!",
+          "tweetKey": "-K-sgXFXG3eDCfTdPJNF",
+          "user": {
+            "email": "Luke-Skywalker@hotmail.com",
+            "key": "-K-sgXFWAuXU4iN4Uwv-",
+            "name": "Luke Skywalker",
+            "username": "luke-skywalker"
+          },
+          "userKey": "-K-sgXFWAuXU4iN4Uwv-"
+        },
+        "-K-sgYzch0ggMsRMRcpL": {
+          "created": "1970-01-06T13:22:26-07:00",
+          "text": "Hey @Biggs, let's go shoot womp rats. I'll tell my uncle that we're picking up power converters, hehe.",
+          "tweetKey": "-K-sgXF_vVrhh4_Rqy62",
+          "user": {
+            "email": "Luke-Skywalker@hotmail.com",
+            "key": "-K-sgXFWAuXU4iN4Uwv-",
+            "name": "Luke Skywalker",
+            "username": "luke-skywalker"
+          },
+          "userKey": "-K-sgXFWAuXU4iN4Uwv-"
+        },
+        "-K-sgYzfCpRchHB97xMo": {
+          "created": "1970-01-02T18:01:19-07:00",
+          "text": "Best thing about two suns? Nothing.",
+          "tweetKey": "-K-sgXFcn1EJSpbZs0Rs",
+          "user": {
+            "email": "Luke-Skywalker@hotmail.com",
+            "key": "-K-sgXFWAuXU4iN4Uwv-",
+            "name": "Luke Skywalker",
+            "username": "luke-skywalker"
+          },
+          "userKey": "-K-sgXFWAuXU4iN4Uwv-"
+        },
+        "-K-sgYzr4NK0oXaiyCTm": {
+          "created": "1970-01-04T11:28:01-07:00",
+          "text": "Are you choking on something?",
+          "tweetKey": "-K-sgXFwMdj_CPmLWKpr",
+          "user": {
+            "email": "Darth-Vader@hotmail.com",
+            "key": "-K-sgXFwMdj_CPmLWKpq",
+            "name": "Darth Vader",
+            "username": "darth-vader"
+          },
+          "userKey": "-K-sgXFwMdj_CPmLWKpq"
+        },
+        "-K-sgYzuB_f_3_GUyDvX": {
+          "created": "1970-01-11T09:13:54-07:00",
+          "text": "I find your lack of faith disturbing",
+          "tweetKey": "-K-sgXFyn3KRlE6pXxdG",
+          "user": {
+            "email": "Darth-Vader@hotmail.com",
+            "key": "-K-sgXFwMdj_CPmLWKpq",
+            "name": "Darth Vader",
+            "username": "darth-vader"
+          },
+          "userKey": "-K-sgXFwMdj_CPmLWKpq"
+        },
+        "-K-sgYzy7RPoTEYzzmxD": {
+          "created": "1970-01-13T07:04:59-07:00",
+          "text": "Found a lost puppy. Home is the hidden rebel base. Anyone know where that is?",
+          "tweetKey": "-K-sgXG-uXrEifYx1Q1O",
+          "user": {
+            "email": "Darth-Vader@hotmail.com",
+            "key": "-K-sgXFwMdj_CPmLWKpq",
+            "name": "Darth Vader",
+            "username": "darth-vader"
+          },
+          "userKey": "-K-sgXFwMdj_CPmLWKpq"
+        },
+        "-K-sgZ-9MhaggBzv3uhx": {
+          "created": "1970-01-13T16:02:44-07:00",
+          "text": "This asteroid may not be entirely stable.",
+          "tweetKey": "-K-sgXF7SQ_R5n1_F-Lv",
+          "user": {
+            "email": "C-3PO@hotmail.com",
+            "key": "-K-sgXF6kcVNbkMTnm8g",
+            "name": "C-3PO",
+            "username": "c-3po"
+          },
+          "userKey": "-K-sgXF6kcVNbkMTnm8g"
+        },
+        "-K-sgZ-E48hDWwi6mHox": {
+          "created": "1970-01-12T12:49:13-07:00",
+          "text": "R2 is a rusty bucket of bolts! j/k",
+          "tweetKey": "-K-sgXFJdks9Gomydal0",
+          "user": {
+            "email": "C-3PO@hotmail.com",
+            "key": "-K-sgXF6kcVNbkMTnm8g",
+            "name": "C-3PO",
+            "username": "c-3po"
+          },
+          "userKey": "-K-sgXF6kcVNbkMTnm8g"
+        },
+        "-K-sgZ-Nm29yvD0UXX7m": {
+          "created": "1970-01-10T03:28:44-07:00",
+          "text": "Just call me Golden Rod",
+          "tweetKey": "-K-sgXFMwFyoV1vfxawd",
+          "user": {
+            "email": "C-3PO@hotmail.com",
+            "key": "-K-sgXF6kcVNbkMTnm8g",
+            "name": "C-3PO",
+            "username": "c-3po"
+          },
+          "userKey": "-K-sgXF6kcVNbkMTnm8g"
+        },
+        "-K-sgZ-RDUkU07k4xJ5B": {
+          "created": "1970-01-13T14:18:22-07:00",
+          "text": "Beep Beep Boop!",
+          "tweetKey": "-K-sgXFhA6ngWY_NUSBq",
+          "user": {
+            "email": "R2-D2@hotmail.com",
+            "key": "-K-sgXFe_iwLRDLrMVf2",
+            "name": "R2-D2",
+            "username": "r2-d2"
+          },
+          "userKey": "-K-sgXFe_iwLRDLrMVf2"
+        },
+        "-K-sgZ-VOShfcVL7Pr5E": {
+          "created": "1970-01-07T10:39:46-07:00",
+          "text": "Click Whir Beep!",
+          "tweetKey": "-K-sgXFkvlDwnd0cdFQT",
+          "user": {
+            "email": "R2-D2@hotmail.com",
+            "key": "-K-sgXFe_iwLRDLrMVf2",
+            "name": "R2-D2",
+            "username": "r2-d2"
+          },
+          "userKey": "-K-sgXFe_iwLRDLrMVf2"
+        },
+        "-K-sgZ-X-cSc2WveONWz": {
+          "created": "1970-01-13T14:17:56-07:00",
+          "text": "Beep Click Beep!",
+          "tweetKey": "-K-sgXFpCeDcc37btCc0",
+          "user": {
+            "email": "R2-D2@hotmail.com",
+            "key": "-K-sgXFe_iwLRDLrMVf2",
+            "name": "R2-D2",
+            "username": "r2-d2"
+          },
+          "userKey": "-K-sgXFe_iwLRDLrMVf2"
+        }
+      },
+      "-K-sgXFWAuXU4iN4Uwv-": {
+        "-K-sgYzWiaOfwL51qf37": {
+          "created": "1970-01-08T21:56:48-07:00",
+          "text": "Ugh! My life is going nowhere!",
+          "tweetKey": "-K-sgXFXG3eDCfTdPJNF",
+          "user": {
+            "email": "Luke-Skywalker@hotmail.com",
+            "key": "-K-sgXFWAuXU4iN4Uwv-",
+            "name": "Luke Skywalker",
+            "username": "luke-skywalker"
+          },
+          "userKey": "-K-sgXFWAuXU4iN4Uwv-"
+        },
+        "-K-sgYzch0ggMsRMRcpM": {
+          "created": "1970-01-17T07:14:06-07:00",
+          "text": "Hey @Biggs, let's go shoot womp rats. I'll tell my uncle that we're picking up power converters, hehe.",
+          "tweetKey": "-K-sgXF_vVrhh4_Rqy62",
+          "user": {
+            "email": "Luke-Skywalker@hotmail.com",
+            "key": "-K-sgXFWAuXU4iN4Uwv-",
+            "name": "Luke Skywalker",
+            "username": "luke-skywalker"
+          },
+          "userKey": "-K-sgXFWAuXU4iN4Uwv-"
+        },
+        "-K-sgYzfCpRchHB97xMp": {
+          "created": "1970-01-14T13:05:13-07:00",
+          "text": "Best thing about two suns? Nothing.",
+          "tweetKey": "-K-sgXFcn1EJSpbZs0Rs",
+          "user": {
+            "email": "Luke-Skywalker@hotmail.com",
+            "key": "-K-sgXFWAuXU4iN4Uwv-",
+            "name": "Luke Skywalker",
+            "username": "luke-skywalker"
+          },
+          "userKey": "-K-sgXFWAuXU4iN4Uwv-"
+        },
+        "-K-sgYzsyh9Q-k1w7Ic-": {
+          "created": "1970-01-01T21:08:28-07:00",
+          "text": "Are you choking on something?",
+          "tweetKey": "-K-sgXFwMdj_CPmLWKpr",
+          "user": {
+            "email": "Darth-Vader@hotmail.com",
+            "key": "-K-sgXFwMdj_CPmLWKpq",
+            "name": "Darth Vader",
+            "username": "darth-vader"
+          },
+          "userKey": "-K-sgXFwMdj_CPmLWKpq"
+        },
+        "-K-sgYzvbhE5CYP4I9Cq": {
+          "created": "1970-01-10T10:50:41-07:00",
+          "text": "I find your lack of faith disturbing",
+          "tweetKey": "-K-sgXFyn3KRlE6pXxdG",
+          "user": {
+            "email": "Darth-Vader@hotmail.com",
+            "key": "-K-sgXFwMdj_CPmLWKpq",
+            "name": "Darth Vader",
+            "username": "darth-vader"
+          },
+          "userKey": "-K-sgXFwMdj_CPmLWKpq"
+        },
+        "-K-sgYzy7RPoTEYzzmxE": {
+          "created": "1970-01-12T01:31:08-07:00",
+          "text": "Found a lost puppy. Home is the hidden rebel base. Anyone know where that is?",
+          "tweetKey": "-K-sgXG-uXrEifYx1Q1O",
+          "user": {
+            "email": "Darth-Vader@hotmail.com",
+            "key": "-K-sgXFwMdj_CPmLWKpq",
+            "name": "Darth Vader",
+            "username": "darth-vader"
+          },
+          "userKey": "-K-sgXFwMdj_CPmLWKpq"
+        },
+        "-K-sgZ-RDUkU07k4xJ5C": {
+          "created": "1970-01-13T22:05:46-07:00",
+          "text": "Beep Beep Boop!",
+          "tweetKey": "-K-sgXFhA6ngWY_NUSBq",
+          "user": {
+            "email": "R2-D2@hotmail.com",
+            "key": "-K-sgXFe_iwLRDLrMVf2",
+            "name": "R2-D2",
+            "username": "r2-d2"
+          },
+          "userKey": "-K-sgXFe_iwLRDLrMVf2"
+        },
+        "-K-sgZ-VOShfcVL7Pr5F": {
+          "created": "1970-01-06T11:17:00-07:00",
+          "text": "Click Whir Beep!",
+          "tweetKey": "-K-sgXFkvlDwnd0cdFQT",
+          "user": {
+            "email": "R2-D2@hotmail.com",
+            "key": "-K-sgXFe_iwLRDLrMVf2",
+            "name": "R2-D2",
+            "username": "r2-d2"
+          },
+          "userKey": "-K-sgXFe_iwLRDLrMVf2"
+        },
+        "-K-sgZ-X-cSc2WveONX-": {
+          "created": "1970-01-05T06:09:22-07:00",
+          "text": "Beep Click Beep!",
+          "tweetKey": "-K-sgXFpCeDcc37btCc0",
+          "user": {
+            "email": "R2-D2@hotmail.com",
+            "key": "-K-sgXFe_iwLRDLrMVf2",
+            "name": "R2-D2",
+            "username": "r2-d2"
+          },
+          "userKey": "-K-sgXFe_iwLRDLrMVf2"
+        }
+      },
+      "-K-sgXFe_iwLRDLrMVf2": {
+        "-K-sgYzYDQ2Fw0GGcyUd": {
+          "created": "1970-01-10T07:17:02-07:00",
+          "text": "Ugh! My life is going nowhere!",
+          "tweetKey": "-K-sgXFXG3eDCfTdPJNF",
+          "user": {
+            "email": "Luke-Skywalker@hotmail.com",
+            "key": "-K-sgXFWAuXU4iN4Uwv-",
+            "name": "Luke Skywalker",
+            "username": "luke-skywalker"
+          },
+          "userKey": "-K-sgXFWAuXU4iN4Uwv-"
+        },
+        "-K-sgYzdh4RqgZ1X8Rmi": {
+          "created": "1970-01-04T06:46:36-07:00",
+          "text": "Hey @Biggs, let's go shoot womp rats. I'll tell my uncle that we're picking up power converters, hehe.",
+          "tweetKey": "-K-sgXF_vVrhh4_Rqy62",
+          "user": {
+            "email": "Luke-Skywalker@hotmail.com",
+            "key": "-K-sgXFWAuXU4iN4Uwv-",
+            "name": "Luke Skywalker",
+            "username": "luke-skywalker"
+          },
+          "userKey": "-K-sgXFWAuXU4iN4Uwv-"
+        },
+        "-K-sgYzfCpRchHB97xMq": {
+          "created": "1970-01-02T07:54:00-07:00",
+          "text": "Best thing about two suns? Nothing.",
+          "tweetKey": "-K-sgXFcn1EJSpbZs0Rs",
+          "user": {
+            "email": "Luke-Skywalker@hotmail.com",
+            "key": "-K-sgXFWAuXU4iN4Uwv-",
+            "name": "Luke Skywalker",
+            "username": "luke-skywalker"
+          },
+          "userKey": "-K-sgXFWAuXU4iN4Uwv-"
+        },
+        "-K-sgZ-AJtZ3i6nT-zRj": {
+          "created": "1970-01-07T21:17:05-07:00",
+          "text": "This asteroid may not be entirely stable.",
+          "tweetKey": "-K-sgXF7SQ_R5n1_F-Lv",
+          "user": {
+            "email": "C-3PO@hotmail.com",
+            "key": "-K-sgXF6kcVNbkMTnm8g",
+            "name": "C-3PO",
+            "username": "c-3po"
+          },
+          "userKey": "-K-sgXF6kcVNbkMTnm8g"
+        },
+        "-K-sgZ-F5yND7JLMin3d": {
+          "created": "1970-01-14T16:09:32-07:00",
+          "text": "R2 is a rusty bucket of bolts! j/k",
+          "tweetKey": "-K-sgXFJdks9Gomydal0",
+          "user": {
+            "email": "C-3PO@hotmail.com",
+            "key": "-K-sgXF6kcVNbkMTnm8g",
+            "name": "C-3PO",
+            "username": "c-3po"
+          },
+          "userKey": "-K-sgXF6kcVNbkMTnm8g"
+        },
+        "-K-sgZ-Nm29yvD0UXX7n": {
+          "created": "1970-01-04T12:00:51-07:00",
+          "text": "Just call me Golden Rod",
+          "tweetKey": "-K-sgXFMwFyoV1vfxawd",
+          "user": {
+            "email": "C-3PO@hotmail.com",
+            "key": "-K-sgXF6kcVNbkMTnm8g",
+            "name": "C-3PO",
+            "username": "c-3po"
+          },
+          "userKey": "-K-sgXF6kcVNbkMTnm8g"
+        },
+        "-K-sgZ-SMxvYfVtVfLti": {
+          "created": "1970-01-14T03:03:46-07:00",
+          "text": "Beep Beep Boop!",
+          "tweetKey": "-K-sgXFhA6ngWY_NUSBq",
+          "user": {
+            "email": "R2-D2@hotmail.com",
+            "key": "-K-sgXFe_iwLRDLrMVf2",
+            "name": "R2-D2",
+            "username": "r2-d2"
+          },
+          "userKey": "-K-sgXFe_iwLRDLrMVf2"
+        },
+        "-K-sgZ-VOShfcVL7Pr5G": {
+          "created": "1970-01-04T23:18:30-07:00",
+          "text": "Click Whir Beep!",
+          "tweetKey": "-K-sgXFkvlDwnd0cdFQT",
+          "user": {
+            "email": "R2-D2@hotmail.com",
+            "key": "-K-sgXFe_iwLRDLrMVf2",
+            "name": "R2-D2",
+            "username": "r2-d2"
+          },
+          "userKey": "-K-sgXFe_iwLRDLrMVf2"
+        },
+        "-K-sgZ-X-cSc2WveONX0": {
+          "created": "1970-01-09T19:12:20-07:00",
+          "text": "Beep Click Beep!",
+          "tweetKey": "-K-sgXFpCeDcc37btCc0",
+          "user": {
+            "email": "R2-D2@hotmail.com",
+            "key": "-K-sgXFe_iwLRDLrMVf2",
+            "name": "R2-D2",
+            "username": "r2-d2"
+          },
+          "userKey": "-K-sgXFe_iwLRDLrMVf2"
+        }
+      },
+      "-K-sgXFwMdj_CPmLWKpq": {
+        "-K-sgYzZhvnajRgqp0ka": {
+          "created": "1970-01-07T09:26:24-07:00",
+          "text": "Ugh! My life is going nowhere!",
+          "tweetKey": "-K-sgXFXG3eDCfTdPJNF",
+          "user": {
+            "email": "Luke-Skywalker@hotmail.com",
+            "key": "-K-sgXFWAuXU4iN4Uwv-",
+            "name": "Luke Skywalker",
+            "username": "luke-skywalker"
+          },
+          "userKey": "-K-sgXFWAuXU4iN4Uwv-"
+        },
+        "-K-sgYzdh4RqgZ1X8Rmj": {
+          "created": "1970-01-06T22:03:23-07:00",
+          "text": "Hey @Biggs, let's go shoot womp rats. I'll tell my uncle that we're picking up power converters, hehe.",
+          "tweetKey": "-K-sgXF_vVrhh4_Rqy62",
+          "user": {
+            "email": "Luke-Skywalker@hotmail.com",
+            "key": "-K-sgXFWAuXU4iN4Uwv-",
+            "name": "Luke Skywalker",
+            "username": "luke-skywalker"
+          },
+          "userKey": "-K-sgXFWAuXU4iN4Uwv-"
+        },
+        "-K-sgYzgFh-anEtcyg14": {
+          "created": "1970-01-03T07:44:37-07:00",
+          "text": "Best thing about two suns? Nothing.",
+          "tweetKey": "-K-sgXFcn1EJSpbZs0Rs",
+          "user": {
+            "email": "Luke-Skywalker@hotmail.com",
+            "key": "-K-sgXFWAuXU4iN4Uwv-",
+            "name": "Luke Skywalker",
+            "username": "luke-skywalker"
+          },
+          "userKey": "-K-sgXFWAuXU4iN4Uwv-"
+        },
+        "-K-sgYzsyh9Q-k1w7Ic0": {
+          "created": "1970-01-05T10:15:55-07:00",
+          "text": "Are you choking on something?",
+          "tweetKey": "-K-sgXFwMdj_CPmLWKpr",
+          "user": {
+            "email": "Darth-Vader@hotmail.com",
+            "key": "-K-sgXFwMdj_CPmLWKpq",
+            "name": "Darth Vader",
+            "username": "darth-vader"
+          },
+          "userKey": "-K-sgXFwMdj_CPmLWKpq"
+        },
+        "-K-sgYzvbhE5CYP4I9Cr": {
+          "created": "1970-01-04T11:47:16-07:00",
+          "text": "I find your lack of faith disturbing",
+          "tweetKey": "-K-sgXFyn3KRlE6pXxdG",
+          "user": {
+            "email": "Darth-Vader@hotmail.com",
+            "key": "-K-sgXFwMdj_CPmLWKpq",
+            "name": "Darth Vader",
+            "username": "darth-vader"
+          },
+          "userKey": "-K-sgXFwMdj_CPmLWKpq"
+        },
+        "-K-sgYzzlCXfsN605Mv6": {
+          "created": "1970-01-02T23:26:10-07:00",
+          "text": "Found a lost puppy. Home is the hidden rebel base. Anyone know where that is?",
+          "tweetKey": "-K-sgXG-uXrEifYx1Q1O",
+          "user": {
+            "email": "Darth-Vader@hotmail.com",
+            "key": "-K-sgXFwMdj_CPmLWKpq",
+            "name": "Darth Vader",
+            "username": "darth-vader"
+          },
+          "userKey": "-K-sgXFwMdj_CPmLWKpq"
+        },
+        "-K-sgZ-B5YOWo6sijMa5": {
+          "created": "1970-01-02T23:55:32-07:00",
+          "text": "This asteroid may not be entirely stable.",
+          "tweetKey": "-K-sgXF7SQ_R5n1_F-Lv",
+          "user": {
+            "email": "C-3PO@hotmail.com",
+            "key": "-K-sgXF6kcVNbkMTnm8g",
+            "name": "C-3PO",
+            "username": "c-3po"
+          },
+          "userKey": "-K-sgXF6kcVNbkMTnm8g"
+        },
+        "-K-sgZ-InBOu-B9Xm846": {
+          "created": "1970-01-06T06:42:09-07:00",
+          "text": "R2 is a rusty bucket of bolts! j/k",
+          "tweetKey": "-K-sgXFJdks9Gomydal0",
+          "user": {
+            "email": "C-3PO@hotmail.com",
+            "key": "-K-sgXF6kcVNbkMTnm8g",
+            "name": "C-3PO",
+            "username": "c-3po"
+          },
+          "userKey": "-K-sgXF6kcVNbkMTnm8g"
+        },
+        "-K-sgZ-O1njF2cZbzB6F": {
+          "created": "1970-01-01T13:57:55-07:00",
+          "text": "Just call me Golden Rod",
+          "tweetKey": "-K-sgXFMwFyoV1vfxawd",
+          "user": {
+            "email": "C-3PO@hotmail.com",
+            "key": "-K-sgXF6kcVNbkMTnm8g",
+            "name": "C-3PO",
+            "username": "c-3po"
+          },
+          "userKey": "-K-sgXF6kcVNbkMTnm8g"
+        },
+        "-K-sgZ-SMxvYfVtVfLtj": {
+          "created": "1970-01-06T11:00:59-07:00",
+          "text": "Beep Beep Boop!",
+          "tweetKey": "-K-sgXFhA6ngWY_NUSBq",
+          "user": {
+            "email": "R2-D2@hotmail.com",
+            "key": "-K-sgXFe_iwLRDLrMVf2",
+            "name": "R2-D2",
+            "username": "r2-d2"
+          },
+          "userKey": "-K-sgXFe_iwLRDLrMVf2"
+        },
+        "-K-sgZ-WV3TTMVt-yHQj": {
+          "created": "1970-01-11T08:26:43-07:00",
+          "text": "Click Whir Beep!",
+          "tweetKey": "-K-sgXFkvlDwnd0cdFQT",
+          "user": {
+            "email": "R2-D2@hotmail.com",
+            "key": "-K-sgXFe_iwLRDLrMVf2",
+            "name": "R2-D2",
+            "username": "r2-d2"
+          },
+          "userKey": "-K-sgXFe_iwLRDLrMVf2"
+        },
+        "-K-sgZ-YpkKequlDeah-": {
+          "created": "1970-01-03T03:39:01-07:00",
+          "text": "Beep Click Beep!",
+          "tweetKey": "-K-sgXFpCeDcc37btCc0",
+          "user": {
+            "email": "R2-D2@hotmail.com",
+            "key": "-K-sgXFe_iwLRDLrMVf2",
+            "name": "R2-D2",
+            "username": "r2-d2"
+          },
+          "userKey": "-K-sgXFe_iwLRDLrMVf2"
+        }
+      }
+    },
+    "tweets": {
+      "-K-sgXF6kcVNbkMTnm8g": {
+        "-K-sgXF7SQ_R5n1_F-Lv": {
+          "created": "1970-01-08T20:02:00-07:00",
+          "fannedOut": true,
+          "text": "This asteroid may not be entirely stable."
+        },
+        "-K-sgXFJdks9Gomydal0": {
+          "created": "1970-01-08T15:46:23-07:00",
+          "fannedOut": true,
+          "text": "R2 is a rusty bucket of bolts! j/k"
+        },
+        "-K-sgXFMwFyoV1vfxawd": {
+          "created": "1970-01-07T02:43:46-07:00",
+          "fannedOut": true,
+          "text": "Just call me Golden Rod"
+        }
+      },
+      "-K-sgXFWAuXU4iN4Uwv-": {
+        "-K-sgXFXG3eDCfTdPJNF": {
+          "created": "1970-01-10T22:16:21-07:00",
+          "fannedOut": true,
+          "text": "Ugh! My life is going nowhere!"
+        },
+        "-K-sgXF_vVrhh4_Rqy62": {
+          "created": "1970-01-13T15:16:09-07:00",
+          "fannedOut": true,
+          "text": "Hey @Biggs, let's go shoot womp rats. I'll tell my uncle that we're picking up power converters, hehe."
+        },
+        "-K-sgXFcn1EJSpbZs0Rs": {
+          "created": "1970-01-03T02:55:53-07:00",
+          "fannedOut": true,
+          "text": "Best thing about two suns? Nothing."
+        }
+      },
+      "-K-sgXFe_iwLRDLrMVf2": {
+        "-K-sgXFhA6ngWY_NUSBq": {
+          "created": "1970-01-03T16:19:43-07:00",
+          "fannedOut": true,
+          "text": "Beep Beep Boop!"
+        },
+        "-K-sgXFkvlDwnd0cdFQT": {
+          "created": "1970-01-05T11:36:27-07:00",
+          "fannedOut": true,
+          "text": "Click Whir Beep!"
+        },
+        "-K-sgXFpCeDcc37btCc0": {
+          "created": "1970-01-07T02:13:35-07:00",
+          "fannedOut": true,
+          "text": "Beep Click Beep!"
+        }
+      },
+      "-K-sgXFwMdj_CPmLWKpq": {
+        "-K-sgXFwMdj_CPmLWKpr": {
+          "created": "1970-01-05T03:20:02-07:00",
+          "fannedOut": true,
+          "text": "Are you choking on something?"
+        },
+        "-K-sgXFyn3KRlE6pXxdG": {
+          "created": "1970-01-14T15:14:25-07:00",
+          "fannedOut": true,
+          "text": "I find your lack of faith disturbing"
+        },
+        "-K-sgXG-uXrEifYx1Q1O": {
+          "created": "1970-01-02T18:07:31-07:00",
+          "fannedOut": true,
+          "text": "Found a lost puppy. Home is the hidden rebel base. Anyone know where that is?"
+        }
+      }
+    }
+  },
+  "users": {
+    "-K-sgXF6kcVNbkMTnm8g": {
+      "email": "C-3PO@hotmail.com",
+      "mass": 75,
+      "name": "C-3PO",
+      "skin_color": "gold",
+      "tweetCount": 3,
+      "username": "c-3po"
+    },
+    "-K-sgXFWAuXU4iN4Uwv-": {
+      "email": "Luke-Skywalker@hotmail.com",
+      "mass": 77,
+      "name": "Luke Skywalker",
+      "skin_color": "fair",
+      "tweetCount": 2,
+      "username": "luke-skywalker"
+    },
+    "-K-sgXFe_iwLRDLrMVf2": {
+      "email": "R2-D2@hotmail.com",
+      "mass": 32,
+      "name": "R2-D2",
+      "skin_color": "white, blue",
+      "tweetCount": 2,
+      "username": "r2-d2"
+    },
+    "-K-sgXFwMdj_CPmLWKpq": {
+      "email": "Darth-Vader@hotmail.com",
+      "mass": 136,
+      "name": "Darth Vader",
+      "skin_color": "white",
+      "tweetCount": 2,
+      "username": "darth-vader"
+    }
+  }
+}

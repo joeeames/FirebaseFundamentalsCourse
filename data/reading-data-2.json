@@ -1,0 +1,121 @@
+{
+  "users": {
+    "-JzqV5XxWnos9RJ4-EN-": {
+      "email": "Beru-Whitesun-lars@hotmail.com",
+      "name": "Beru Whitesun lars",
+      "tweetCount": 3,
+      "username": "beru-whitesun-lars"
+    },
+    "-JzqV5YOo1eQxTC6WVvY": {
+      "email": "Luke-Skywalker@hotmail.com",
+      "name": "Luke Skywalker",
+      "tweetCount": 2,
+      "username": "luke-skywalker"
+    },
+    "-JzqV5YpwDR4fzFj-eey": {
+      "email": "Leia-Organa@hotmail.com",
+      "name": "Leia Organa",
+      "tweetCount": 2,
+      "username": "leia-organa"
+    }
+  },
+  "userObjects": {
+    "following": {
+      "-JzqV5XxWnos9RJ4-EN-": {
+        "-JzqV5fcuQ7KaHal6_IK": {
+          "email": "Leia-Organa@hotmail.com",
+          "key": "-JzqV5YpwDR4fzFj-eey",
+          "name": "Leia Organa",
+          "username": "leia-organa"
+        },
+        "-JzqV5eC-LxHooIIEuRD": {
+          "email": "Luke-Skywalker@hotmail.com",
+          "key": "-JzqV5YOo1eQxTC6WVvY",
+          "name": "Luke Skywalker",
+          "username": "luke-skywalker"
+        }
+      },
+      "-JzqV5YOo1eQxTC6WVvY": {
+        "-JzqV5etLEwZgDEPGleL": {
+          "email": "Beru-Whitesun-lars@hotmail.com",
+          "key": "-JzqV5XxWnos9RJ4-EN-",
+          "name": "Beru Whitesun lars",
+          "username": "beru-whitesun-lars"
+        }
+      },
+      "-JzqV5YpwDR4fzFj-eey": {
+        "-JzqV5etLEwZgDERlCza": {
+          "email": "Beru-Whitesun-lars@hotmail.com",
+          "key": "-JzqV5XxWnos9RJ4-EN-",
+          "name": "Beru Whitesun lars",
+          "username": "beru-whitesun-lars"
+        },
+        "-JzqV5eC-LxHooIBHeiS": {
+          "email": "Luke-Skywalker@hotmail.com",
+          "key": "-JzqV5YOo1eQxTC6WVvY",
+          "name": "Luke Skywalker",
+          "username": "luke-skywalker"
+        }
+      }
+    },
+    "tweets": {
+      "-JzqV5XxWnos9RJ4-EN-": {
+        "tweets": {
+          "-JzqV5XyL2WfiQWLMdAr": {
+            "created": "1970-01-15T21:59:05-07:00",
+            "fannedOut": true,
+            "text": "I'm really tired of blue milk..."
+          },
+          "-JzqV5YAQbRruQPkBqav": {
+            "created": "1970-01-04T04:16:27-07:00",
+            "fannedOut": true,
+            "text": "R2 is a rusty bucket of bolts! j/k"
+          },
+          "-JzqV5YDFOPrODtveaHW": {
+            "created": "1970-01-07T12:04:03-07:00",
+            "fannedOut": true,
+            "text": "I see some stormtroopers heading our way. Nothing to worry about I'm sure."
+          }
+        }
+      },
+      "-JzqV5YOo1eQxTC6WVvY": {
+        "tweets": {
+          "-JzqV5YPJm0hoYEhLuSv": {
+            "created": "1970-01-12T11:05:34-07:00",
+            "fannedOut": true,
+            "text": "Ugh! My life is going nowhere!"
+          },
+          "-JzqV5YSu7RNuYmhPUZp": {
+            "created": "1970-01-16T08:07:47-07:00",
+            "fannedOut": true,
+            "text": "Hey @Biggs, let's go shoot womp rats. I'll tell my uncle that we're picking up power converters, hehe."
+          },
+          "-JzqV5Ydr8Y6gR2024py": {
+            "created": "1970-01-12T15:16:18-07:00",
+            "fannedOut": true,
+            "text": "Best thing about two suns? Nothing."
+          }
+        }
+      },
+      "-JzqV5YpwDR4fzFj-eey": {
+        "tweets": {
+          "-JzqV5Z0CcFpkYaK5ffG": {
+            "created": "1970-01-05T21:41:03-07:00",
+            "fannedOut": true,
+            "text": "What's the best way to get garbage masher smell out of a dress?"
+          },
+          "-JzqV5ZAkK6jg3BBoehX": {
+            "created": "1970-01-15T03:19:44-07:00",
+            "fannedOut": true,
+            "text": "He's a scoundrel but I love him. #HanShotFirst"
+          },
+          "-JzqV5ZI_wtTNHlX8KxG": {
+            "created": "1970-01-03T14:06:31-07:00",
+            "fannedOut": true,
+            "text": "Girls, always be careful who you kiss. #awkward"
+          }
+        }
+      }
+    }
+  }
+} 
